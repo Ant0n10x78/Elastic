@@ -1,0 +1,6 @@
+cluster.name: "siem-cluster"
+node.name: "node-1"
+network.host: 0.0.0.0
+http.port: 9200
+xpack.security.enabled: true
+xpack.security.authc.api_key.enabled: true
